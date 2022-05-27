@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @picjul
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to my github page! Many of the projects are private, to be honest there's not much to see...
+## Main interests
+  - Machine Vision
+  - Machine Learning
+## Codewars badge
+I use to improve my develpment skills through studying and practicing. This is my current state on CodeWars:
 
-<!---
-picjul/picjul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/picjul/badges/large)
+
+
 
